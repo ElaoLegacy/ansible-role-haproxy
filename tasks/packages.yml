@@ -1,3 +1,5 @@
+---
+
 - name: packages pinning
   template: >
     src=pinning.j2
